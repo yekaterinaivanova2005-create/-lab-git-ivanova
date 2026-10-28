@@ -25,3 +25,15 @@
    - CSS3
    - JavaScript
    - Git
+
+   ## Установка
+
+   1. Клонировать репозиторий:
+    ```bash
+    git clone https://github.com/<username>/lab-git-<фамилия>.git
+    ```
+   2. Перейти в папку проекта:
+    ```bash
+    cd lab-git-<фамилия>
+    ```
+   3. Открыть файл `index.html` в браузере.
